@@ -60,3 +60,4 @@ git merge rama1
 ## MODIFICACIONES
 - Modificación realizada por rama1
 - Quiero crear un conflicto desde rama2
+- Segunda modificación para provocar un conflicto desde rama1
