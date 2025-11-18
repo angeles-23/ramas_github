@@ -59,3 +59,4 @@ git merge rama1
 
 ## MODIFICACIONES
 - Modificación realizada por rama1
+- Segunda modificación para provocar un conflicto desde rama1
