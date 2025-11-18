@@ -55,3 +55,7 @@ git merge rama1
 - Este flujo permite que los cambios de rama2 se integren primero en rama1 y luego en main.
 
 - Se pueden resolver conflictos durante los merges si es necesario.
+
+
+## MODIFICACIONES
+- Modificación realizada por rama1
